@@ -1,12 +1,12 @@
 # htb-meta
 
-### Initial Scans:
+#### Initial Scans:
 nmap -sV -sC
 
 ![image](https://user-images.githubusercontent.com/19478700/171474499-8e5e8458-fea4-4d04-bfae-b43e19555e81.png)
 
 
-### Directory Enumeration
+## Directory Enumeration
 No directories found using:
 gobuster dir --url artcorp.htb -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 25  > gobuster_dir.txt
 
