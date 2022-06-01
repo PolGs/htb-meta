@@ -36,8 +36,16 @@ https://github.com/DominicBreuker/pspy
 ![image](https://user-images.githubusercontent.com/19478700/171478219-ea840b58-ea21-4ab9-bfb5-a89ec8d4de1b.png)
 ![image](https://user-images.githubusercontent.com/19478700/171478770-2808a3a0-2690-4c2f-a9b5-f9bf9c5d4595.png)
 
-## some of these proceses may be vulnerable
+#### some of these proceses may be vulnerable
 ![image](https://user-images.githubusercontent.com/19478700/171478902-6c623773-de08-4fb1-aa52-b598fff4605c.png)
+
+#### lets check mogrify
+$ mogrify --version
+Version: ImageMagick 7.0.10-36 Q16 x86_64 2021-08-29 
+#### vulnerable version
+https://www.exploit-db.com/exploits/39767
+
+
 
 
 
