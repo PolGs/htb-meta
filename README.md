@@ -45,6 +45,23 @@ Version: ImageMagick 7.0.10-36 Q16 x86_64 2021-08-29
 #### vulnerable version
 https://www.exploit-db.com/exploits/39767
 
+#### uploaded a malicious svg file wich exploits te vulneravility
+![image](https://user-images.githubusercontent.com/19478700/171496540-0948b370-5fe6-4c60-b625-dc8b2d75d509.png)
+
+![image](https://user-images.githubusercontent.com/19478700/171496381-3c6bb488-4ef8-47a4-b081-9ffc4400a727.png)
+
+#### now lets get ssh keys using this vuln so that we can ssh as thomas
+#### cat ~/.ssh/id_rsa
+
+![image](https://user-images.githubusercontent.com/19478700/171498204-ff5b9e61-9c28-4368-80b5-c9820a94446d.png)
+
+
+#### Lets use this key to login as thomas
+
+
+![image](https://user-images.githubusercontent.com/19478700/171502006-5866b580-2eb3-4e1f-9dbf-56c4102af0a6.png)
+
+
 
 
 
